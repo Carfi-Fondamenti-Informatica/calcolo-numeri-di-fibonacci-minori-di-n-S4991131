@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-   int n=0, a=0, b=1, c=;
+   int n=0, a=0, b=1, c, i;
    cin >> n;
    
    cout << b << endl;
